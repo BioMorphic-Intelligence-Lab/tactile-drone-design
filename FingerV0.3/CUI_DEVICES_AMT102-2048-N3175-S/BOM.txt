@@ -1,0 +1,3 @@
+3DX_CUI_DEVICES_Supplier: CUI Devices
+3DX_CUI_DEVICES_Description: AMT10 Radial, Fixed Resolution, 2048 PPR, 8 Index Pulses, 3.175 mm Bore, Standard, Incremental, Capacitive Modular Encoder
+3DX_CUI_DEVICES_Model Number: AMT102-2048-N3175-S
